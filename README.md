@@ -8,7 +8,7 @@ Multiplex Information Viewer Application was developed to view, clean, transform
 ## Description
 During the development, the program was tested to explore Python's threads implementation, although it is not included in the program, and the various components in the Graphical User Interface (GUI). For data analysis and visualisation NumPy, Pandas and Matplotlib are used after exploring other popular packages.
 
-As a part of an assignment for a CS master's degree program, I compared the strength and limitations of popular data storage formats for this application. 
+As a part of an assignment for a CS master's degree program, strength and limitations of popular database such as SQL and NoSQL are compared for this application. 
 
 
 ### ℹ️ Note
